@@ -79,7 +79,7 @@ Fitness centers and apps need to monitor **user workout activity, calorie burn, 
 ## 🖼️ Dashboard Preview
 
 🖼️**Here is the link:**
-[View Full Dashboard Image]()
+[View Full Dashboard Image](https://github.com/mydeepcode/Fitness-Dashboard/blob/main/Fitness%20Dashboard.png)
 
 ---
 
